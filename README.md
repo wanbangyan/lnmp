@@ -1,0 +1,2 @@
+# lnmp
+deploy lnmp 
